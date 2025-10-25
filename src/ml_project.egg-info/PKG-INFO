@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ml_project
+Version: 0.0.1
+Author: Divya
+Author-email: divyayadav6351@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn
