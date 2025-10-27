@@ -8,7 +8,7 @@ __pycache__/
 *.pyd
 
 # Ignore environment files
-.artifacts
+
 .env
 *.env
 
